@@ -10,9 +10,7 @@ A pixel-faithful Flutter implementation of the Blinkit Money wallet onboarding s
 
 | Screen Recording | Release APK |
 |---|---|
-| [▶ Watch demo](#) | [⬇ Download APK](#) |
-
-> Replace the `#` links above with your actual Google Drive / GitHub Releases links before submitting.
+| [▶ Watch demo](https://drive.google.com/file/d/1_mODuXSrinT3c58Js4mBRh0u1q8ea0qz/view?usp=sharing) | [⬇ Download APK](https://drive.google.com/file/d/1F5eYTI99Mnq6lc1wcR9I-d46aRE8q7bn/view?usp=sharing) |
 
 ---
 
@@ -132,8 +130,8 @@ The release APK is at `build/app/outputs/flutter-apk/app-release.apk`.
 
 | Field | Value |
 |---|---|
-| Package name | `flicktv.gurpreet` |
-| App name | `Gurpreet` |
+| Package name | `com.flicktv.gurpreet.gurpreet_flicktv_assignment` |
+| App name | `Gurpreet Singh` |
 | Min SDK | 21 |
 | Target SDK | 34 |
 
