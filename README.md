@@ -106,7 +106,7 @@ The brief requires zero third-party dependencies. All functionality is implement
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/flicktv-wallet-intro-gurpreet.git
+git clone https://github.com/gurpreetKhalsaTech/flicktv-wallet-intro-gurpreet.git
 cd flicktv-wallet-intro-gurpreet
 
 # Install dependencies (there are none beyond the SDK, but this verifies pubspec)
@@ -134,16 +134,3 @@ The release APK is at `build/app/outputs/flutter-apk/app-release.apk`.
 | App name | `Gurpreet Singh` |
 | Min SDK | 21 |
 | Target SDK | 34 |
-
----
-
-## Credits
-
-| Asset | Source | License |
-|---|---|---|
-| Wallet icon | [Source name + URL] | [License, e.g. Free with attribution] |
-| Card illustrations | [Source name + URL] | [License] |
-| Gift card thumbnail | [Source name + URL] | [License] |
-| Font (if used) | [Google Fonts — font name] | OFL |
-
-> Fill in this table with the actual sources once you've downloaded and added the assets.
